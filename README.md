@@ -1,6 +1,6 @@
 # Hi everyone, I'm Kévin - 👋
 
-
+<br>
 
 ## I'm a Father, Developper and IT Teacher!
 - 👀 I’m interested in ...
@@ -15,11 +15,15 @@
 - 🌊
 - ⛵
 
+<br>
 
 ## Connect with me 📫 :
-[<img align="left" alt="kevinwebsite" width="22px" font-size="50px" src="https://github.com/ionic-team/ionicons/blob/master/src/svg/planet-sharp.svg" />][twitter]
+[<img align="left" alt="kevin | website" width="22px" src="https://github.com/ionic-team/ionicons/blob/master/src/svg/planet-sharp.svg" />][website]
+[<img align="left" alt="kevin | twitter" width="22px" src="https://github.com/ionic-team/ionicons/blob/master/src/svg/logo-twitter.svg" />][twitter]
+[<img align="left" alt="kevin | youtube" width="22px" src="https://github.com/ionic-team/ionicons/blob/master/src/svg/logo-youtube.svg" />][youtube]
+[<img align="left" alt="kevin | linkedin" width="22px" src="https://github.com/ionic-team/ionicons/blob/master/src/svg/logo-linkedin.svg" />][linkedin]
 
-
+<br>
 
 ## Languages and tools:
 
