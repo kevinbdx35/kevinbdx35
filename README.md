@@ -6,14 +6,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning everything 😊
 - 💞️ I’m looking to collaborate on ...
-- ✨ Fun fact : I love to play 🥁, roll
-- 
-- 
-- 🥋
-- 🏄‍♂️
-- 🎣
-- 🌊
-- ⛵
+- ✨ Fun fact : I love to play 🥁, roll🥋🏄‍♂️🎣🌊⛵
 
 <br>
 
