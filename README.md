@@ -1,4 +1,4 @@
-# Hi everyone, I'm Kévin - 👋
+# Hi everyone, I'm Kévin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 <br>
 
@@ -19,9 +19,15 @@
 <br>
 
 ## Languages and tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/ionic-team/ionicons/blob/master/src/svg/planet-sharp.svg" />]
+[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/visual-studio-code.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/atom.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/codepen.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/css.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/npm.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/nodejs.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/arduino.svg" />][website]
 
-
+<br>
 
 [website]:#
 [twitter]: https://twitter.com
