@@ -9,7 +9,7 @@ I like emulsions of ideas and human contact.
 Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal digital projects interest me particularly.
 
 
-## I'm a Father, Developper and IT Teacher!
+# I'm a Father, Developper and IT Teacher!
 - 👀 I’m interested in new challenges, projects, jobs,...
 - 🌱 I’m currently learning everything 😊
 - 💞️ I'm looking to collaborate on transversal digital projects, which have an ethical purpose
@@ -24,9 +24,10 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 <br>
 
 ## Languages and tools:
-[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/rdimascio/icons/blob/master/icons/ubuntu.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/rdimascio/icons/blob/master/icons/color/apple.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/rdimascio/icons/blob/master/icons/html5.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />][website]
+
 
 <br>
 
