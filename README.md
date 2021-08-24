@@ -13,7 +13,7 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 - 👀 I’m interested in new challenges, projects, jobs,...
 - 🌱 I’m currently learning everything 😊
 - 💞️ I'm looking to collaborate on transversal digital projects, which have an ethical purpose
-- ✨ Fun fact : 🥁🎶🥋🌊🎣⛵🏄‍♂️🐶
+- ✨ Fun fact : 🥁 🎶 🥋 🌊 🎣 ⛵ 🏄‍ 🐶
 
 
 ## Connect with me 📫 :
@@ -26,7 +26,7 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 ## Languages and tools:
 <p float="left">
   <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/ubuntu-4.svg" />
-  <img alt="Visual Studio Code"  width="40" src="https://github.com/kevinbdx35/Logos/blob/main/svg/apple.svg" />
+  <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/apple.svg" />
   <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />
   <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/html-1.svg" />
   <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/css-3.svg" />
