@@ -8,7 +8,7 @@ Skilled in web technologies, HTML, CSS, SCSS and Javascript, also C and Python L
 Gifted, open-minded 🧠, I am passionate about Sciences 👨🏻‍🔬, blockchain ⛓️, GIS 🛰️, innovation, foresight, IT, digital arts, design, mechatronics, entrepreneurship, drones, nature, biomimicry, 🐶, 🌊, 🎣, ⛵, 🏄‍, 🏖️ and learning all time about everything 📖. 
 
 I like emulsions of ideas and human contact.
-🎓 Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal digital projects interest me particularly.
+🎓 Graduated of Master's degree in Mechatronics and Entrepreneurship, I'm particularly interested in transversal digital projects.
 
 - 👀 I’m interested in new challenges, projects, jobs,...
 - 🌱 I’m currently learning everything 😊
