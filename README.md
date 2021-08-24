@@ -17,17 +17,24 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 
 
 ## Connect with me 📫 :
-[<img align="left" alt="Kevin | Website" width="22px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/website-48x48.png" />][website]
-[<img align="left" alt="Kevin | Youtube" width="22px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/youtube-48x48.png" />][youtube]
-[<img align="left" alt="Kevin | Linkedin" width="22px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" />][linkedin]
+[<img align="left" alt="Kevin | Linkedin" width="100px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kevin | Youtube" width="100px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/youtube-6.svg" />][youtube]
+
 
 <br>
 
 ## Languages and tools:
-[<img align="left" alt="Visual Studio Code"  width="50px" src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="50px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="50px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />][website]
-
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/ubuntu-4.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/apple.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/html-1.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/css-3.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
 
 <br>
 
