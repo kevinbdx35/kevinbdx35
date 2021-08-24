@@ -12,7 +12,7 @@ I like emulsions of ideas and human contact.
 
 - 👀 I’m interested in new challenges, projects, jobs,...
 - 🌱 I’m currently learning everything 😊
-- 💞️ I'm looking to collaborate on transversal digital projects, which have an ethical purpose
+- 💞️ I'm looking to collaborate an ethical purpose project
 
 <br>
 <br>
