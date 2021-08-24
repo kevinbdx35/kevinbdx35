@@ -11,7 +11,7 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 <br>
 
 ## I'm a Father, Developper and IT Teacher!
-- 👀 I’m interested in ...
+- 👀 I’m interested in new challenges, projects, jobs,...
 - 🌱 I’m currently learning everything 😊
 - 💞️ I'm looking to collaborate on transversal digital projects, which have an ethical purpose
 - ✨ Fun fact : 🥁🎶🥋🌊🎣⛵🏄‍♂️🐶
