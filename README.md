@@ -8,7 +8,6 @@ Gifted, open-minded, I am passionate about science, blockchain, GIS, innovation,
 I like emulsions of ideas and human contact.
 Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal digital projects interest me particularly.
 
-<br>
 
 ## I'm a Father, Developper and IT Teacher!
 - 👀 I’m interested in new challenges, projects, jobs,...
@@ -16,13 +15,11 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 - 💞️ I'm looking to collaborate on transversal digital projects, which have an ethical purpose
 - ✨ Fun fact : 🥁🎶🥋🌊🎣⛵🏄‍♂️🐶
 
-<br>
 
 ## Connect with me 📫 :
-[<img align="left" alt="Kevin | Website" width="22px" src="https://github.com/ionic-team/ionicons/blob/master/src/svg/planet-sharp.svg" />][website]
-[<img align="left" alt="Kevin | Twitter" width="22px" src="https://github.com/ionic-team/ionicons/blob/master/src/svg/logo-twitter.svg" />][twitter]
-[<img align="left" alt="Kevin | Youtube" width="22px" src="https://github.com/ionic-team/ionicons/blob/master/src/svg/logo-youtube.svg" />][youtube]
-[<img align="left" alt="Kevin | Linkedin" width="22px" src="https://github.com/ionic-team/ionicons/blob/master/src/svg/logo-linkedin.svg" />][linkedin]
+[<img align="left" alt="Kevin | Website" width="22px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/website-48x48.png" />][website]
+[<img align="left" alt="Kevin | Youtube" width="22px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/youtube-48x48.png" />][youtube]
+[<img align="left" alt="Kevin | Linkedin" width="22px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" />][linkedin]
 
 <br>
 
@@ -38,6 +35,5 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 <br>
 
 [website]:#
-[twitter]: https://twitter.com
 [youtube]: https://youtube.com
 [linkedin]: https://linkedin.com
