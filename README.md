@@ -17,24 +17,24 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 
 
 ## Connect with me 📫 :
-[<img align="left" alt="Kevin | Linkedin" width="100px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kevin | Youtube" width="100px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/youtube-6.svg" />][youtube]
+[<img align="left" alt="Kevin | Linkedin" width="100" src="https://github.com/kevinbdx35/Logos/blob/main/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kevin | Youtube" width="100" src="https://github.com/kevinbdx35/Logos/blob/main/svg/youtube-6.svg" />][youtube]
 
 
 <br>
 
 ## Languages and tools:
 <p float="left">
-  <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/ubuntu-4.svg" />
-  <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/apple.svg" />
-  <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />
-  <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/html-1.svg" />
-  <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/css-3.svg" />
-  <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/sass-1.svg" />
-  <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/javascript-1.svg" />
-  <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/npm.svg" />
-  <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/nodejs-icon.svg" />
-  <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/python-5.svg" />
+  <img alt="Visual Studio Code"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/ubuntu-4.svg" />
+  <img alt="Visual Studio Code"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/apple.svg" />
+  <img alt="Visual Studio Code"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />
+  <img alt="Visual Studio Code"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/html-1.svg" />
+  <img alt="Visual Studio Code"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/css-3.svg" />
+  <img alt="Visual Studio Code"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/sass-1.svg" />
+  <img alt="Visual Studio Code"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/javascript-1.svg" />
+  <img alt="Visual Studio Code"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/npm.svg" />
+  <img alt="Visual Studio Code"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/nodejs-icon.svg" />
+  <img alt="Visual Studio Code"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/python-5.svg" />
 </p>  
 
 
@@ -42,4 +42,4 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 
 [website]:#
 [youtube]: https://youtube.com
-[linkedin]: https://linkedin.com
+[linkedin]: https://www.linkedin.com/in/kbdx35/
