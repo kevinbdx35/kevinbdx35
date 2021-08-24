@@ -25,16 +25,16 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 
 ## Languages and tools:
 [<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/ubuntu-4.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/apple.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="40px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/apple.svg" />][website]
 [<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
 [<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/html-1.svg" />][website]
 [<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/css-3.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/sass-1.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/javascript-1.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/npm.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/nodejs-icon.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="50px" src="https://github.com/kevinbdx35/Logos/blob/main/svg/python-5.svg" />][website]
+
 
 <br>
 
