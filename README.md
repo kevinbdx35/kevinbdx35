@@ -29,16 +29,16 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 
 ## Languages and tools:
 <p float="left">
-  <img alt="Ubuntu"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/ubuntu-4.svg" />
-  <img alt="Appel"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/apple.svg" />
-  <img alt="Visual Studio Code"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />
-  <img alt="HTML 5"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/html-1.svg" />
-  <img alt="CSS 3"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/css-3.svg" />
-  <img alt="SASS"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/sass-1.svg" />
-  <img alt="Javascript Vanilla"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/javascript-1.svg" />
-  <img alt="NPM"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/npm.svg" />
-  <img alt="NodeJS"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/nodejs-icon.svg" />
-  <img alt="Python"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/python-5.svg" />
+  <img alt="Ubuntu"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/ubuntu-4.svg" />
+  <img alt="Appel"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/apple.svg" />
+  <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />
+  <img alt="HTML 5"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/html-1.svg" />
+  <img alt="CSS 3"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/css-3.svg" />
+  <img alt="SASS"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/sass-1.svg" />
+  <img alt="Javascript Vanilla"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/javascript-1.svg" />
+  <img alt="NPM"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/npm.svg" />
+  <img alt="NodeJS"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/nodejs-1.svg" />
+  <img alt="Python"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/python-5.svg" />
 </p>  
 
 <br>
