@@ -24,13 +24,9 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 <br>
 
 ## Languages and tools:
-[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/visual-studio-code.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/atom.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/codepen.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/css.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/npm.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/nodejs.svg" />][website]
-[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/arduino.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/rdimascio/icons/blob/master/icons/ubuntu.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/rdimascio/icons/blob/master/icons/color/apple.svg" />][website]
+[<img align="left" alt="Visual Studio Code"  width="70px" src="https://github.com/rdimascio/icons/blob/master/icons/html5.svg" />][website]
 
 <br>
 
