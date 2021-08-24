@@ -8,6 +8,8 @@ Gifted, open-minded, I am passionate about science, blockchain, GIS, innovation,
 I like emulsions of ideas and human contact.
 Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal digital projects interest me particularly.
 
+<br>
+<br>
 
 # I'm a Father, Developper and IT Teacher!
 - 👀 I’m interested in new challenges, projects, jobs,...
@@ -15,12 +17,14 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 - 💞️ I'm looking to collaborate on transversal digital projects, which have an ethical purpose
 - ✨ Fun fact : 🥁 🎶 🥋 🌊 🎣 ⛵ 🏄‍ 🐶
 
+<br>
+<br>
 
 ## Connect with me 📫 :
 [<img align="left" alt="Kevin | Linkedin" width="100" src="https://github.com/kevinbdx35/Logos/blob/main/svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kevin | Youtube" width="100" src="https://github.com/kevinbdx35/Logos/blob/main/svg/youtube-6.svg" />][youtube]
 
-
+<br>
 <br>
 
 ## Languages and tools:
@@ -37,7 +41,7 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
   <img alt="Visual Studio Code"  width="30" src="https://github.com/kevinbdx35/Logos/blob/main/svg/python-5.svg" />
 </p>  
 
-
+<br>
 <br>
 
 [website]:#
