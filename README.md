@@ -14,7 +14,7 @@ Graduated of Master's degree in Mechatronics and Entrepreneurship, transversal d
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning everything 😊
 - 💞️ I'm looking to collaborate on transversal digital projects, which have an ethical purpose
-- ✨ Fun fact : I love to play 🥁, roll🥋🏄‍♂️🎣🌊⛵🐶
+- ✨ Fun fact : 🥁🎶🥋🌊🎣⛵🏄‍♂️🐶
 
 <br>
 
