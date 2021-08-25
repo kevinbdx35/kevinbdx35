@@ -36,6 +36,7 @@ I like emulsions of ideas and human contact.
   <img alt="NPM"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/npm.svg" />
   <img alt="NodeJS"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/nodejs-1.svg" />
   <img alt="Python"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/python-5.svg" />
+  <img alt="C"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/C_Programming_Language.svg" />
 </p>  
 
 <br>
