@@ -25,22 +25,13 @@ I like emulsions of ideas and human contact.
 <br>
 
 ## Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=bash,blender,figma,git,ai,linux,md)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,sass,py,c,wordpress,vscode,bash,git,linux,md,blender,figma,ai&perline=10)](https://skillicons.dev)
 
 <p float="left">
   <img alt="Ubuntu"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/ubuntu-4.svg" />
   <img alt="Appel"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/apple.svg" />
   <img alt="Visual Studio Code"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/visual-studio-code-1.svg" />
-  <img alt="HTML 5"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/html-1.svg" />
-  <img alt="CSS 3"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/css-3.svg" />
-  <img alt="SASS"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/sass-1.svg" />
-  <img alt="Javascript Vanilla"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/javascript-1.svg" />
   <img alt="NPM"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/npm.svg" />
-  <img alt="NodeJS"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/nodejs-1.svg" />
-  <img alt="Python"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/python-5.svg" />
-  <img alt="C"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/C_Programming_Language.svg" />
 </p>  
 
 <br>
