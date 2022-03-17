@@ -27,7 +27,7 @@ I like emulsions of ideas and human contact.
 ## Languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=bash,blender,c,css,figma,git,ai,linux,md,py,sass,vscode,wordpress&perline=5)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react&perline=10)](https://skillicons.dev)
 
 <p float="left">
   <img alt="Ubuntu"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/ubuntu-4.svg" />
