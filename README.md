@@ -38,7 +38,6 @@ I like emulsions of ideas and human contact.
   <img alt="Python"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/python-5.svg" />
   <img alt="C"  width="50" src="https://github.com/kevinbdx35/Logos/blob/main/svg/C_Programming_Language.svg" />
 </p>  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <br>
 <br>
