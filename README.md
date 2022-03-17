@@ -25,7 +25,7 @@ I like emulsions of ideas and human contact.
 <br>
 
 ## Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=bash,blender,c,css,figma,git,html,ai,js,linux,md,nodejs,py, react,sass,vscode,wordpress&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,blender,c,css,figma,git,ai,linux,md,py,sass,vscode,wordpress&perline=5)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react&perline=5)](https://skillicons.dev)
 
