@@ -31,7 +31,7 @@ I like emulsions of ideas and human contact.
 <br>
 
 ## My next steps :
-[![My Skills](https://skillicons.dev/icons?i=docker,ts,flutter,dart,rust,clojure,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,ts,flutter,dart,rust,clojure,go&perline=10)](https://skillicons.dev)
 
 <br>
 <br>
