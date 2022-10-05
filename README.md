@@ -9,7 +9,7 @@ My main programming language is **Python** 🐍, I know to use it in the profess
 
 I also skilled in web technologies, HTML, CSS and Javascript. And I have goods foundations in C language.
 
-Gifted, open-minded 🧠, I am passionate about Sciences 👨🏻‍🔬, blockchain ⛓️, GIS 🛰️, innovation, foresight, IT, digital arts, design, mechatronics, entrepreneurship, drones, nature, biomimicry, 🐶, 🌊, 🎣, ⛵, 🏄‍, 🏖️ and learning all time about everything 📖. 
+Gifted, open-minded 🧠, I am passionate about learning all time about everything 📖. 
 
 I like emulsions of ideas and human contact.
 🎓 Graduated of Master's degree in Mechatronics and Entrepreneurship, I'm particularly interested in transversal digital projects.
