@@ -5,9 +5,9 @@ I'm a Father 👨‍👧‍👦, Developper, IT Trainer and Mechatronics Enginee
 
 I passionned by **back-end development** and everything related to computer sciences.
 
-My main programming language is **Python** 🐍, I know to use in the professionnal context with differents tools like Pycharm, Panda, Flask, SQLAlchemy, Pytest, Ctype, CPython, JWT, BCrypt, PostgreSQL, Postman, and more...
+My main programming language is **Python** 🐍, I know to use it in the professionnal context with differents tools like Pycharm, Panda, Flask, SQLAlchemy, Pytest, Ctype, CPython, JWT, BCrypt, PostgreSQL, Postman, and more...
 
-I also skilled in web technologies, HTML, CSS, SCSS and Javascript. And I have goods foundations in C language. . 
+I also skilled in web technologies, HTML, CSS and Javascript. And I have goods foundations in C language.
 
 Gifted, open-minded 🧠, I am passionate about Sciences 👨🏻‍🔬, blockchain ⛓️, GIS 🛰️, innovation, foresight, IT, digital arts, design, mechatronics, entrepreneurship, drones, nature, biomimicry, 🐶, 🌊, 🎣, ⛵, 🏄‍, 🏖️ and learning all time about everything 📖. 
 
