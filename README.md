@@ -1,5 +1,5 @@
 # Hi everyone, I'm Kévin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-After 15 years of experience in the industry's world 🏭; I’m now focused on the digital world 🖥️, innovation and emerging technologies. 
+From 2017; I’m now focused on the digital world 🖥️, innovation and emerging technologies. 
 
 I'm a Father 👨‍👧‍👦, Developper, IT Teacher, Mechatronics Engineer, Musician 🥁 🎶  and Martial artist 🥋.
 
