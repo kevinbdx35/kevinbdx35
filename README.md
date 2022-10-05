@@ -7,7 +7,7 @@ I am passionate about **back-end development** and everything related to compute
 
 My main programming language is **Python** 🐍, I use it in professionnal context with differents tools like Pycharm, Panda, Flask, SQLAlchemy, Pytest, Ctype, CPython, JWT, BCrypt, PostgreSQL, Postman, and more...
 
-I also skilled in front-end development 🌐, HTML, CSS and Javascript. And I have goods foundations in C language.
+I am skilled in front-end development 🌐, HTML, CSS and Javascript. And I have goods Knowledges in C language.
 
 Gifted, open-minded 🧠, I am passionate about learning all time about everything 📖. 
 
