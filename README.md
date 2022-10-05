@@ -3,11 +3,11 @@ From 2017, I’m focused my carreer on the digital world 🖥️, innovation and
 
 I'm a Father 👨‍👧‍👦, Developper, IT Trainer and Mechatronics Engineer.
 
-I passionned by **back-end development** and everything related to computer sciences.
+I am passionate about **back-end development** and everything related to computer sciences.
 
 My main programming language is **Python** 🐍, I know to use it in the professionnal context with differents tools like Pycharm, Panda, Flask, SQLAlchemy, Pytest, Ctype, CPython, JWT, BCrypt, PostgreSQL, Postman, and more...
 
-I also skilled in web technologies, HTML, CSS and Javascript. And I have goods foundations in C language.
+I also skilled in front-end development 🌐, HTML, CSS and Javascript. And I have goods foundations in C language.
 
 Gifted, open-minded 🧠, I am passionate about learning all time about everything 📖. 
 
