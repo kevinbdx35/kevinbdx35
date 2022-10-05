@@ -3,7 +3,11 @@ From 2017, I’m focused my carreer on the digital world 🖥️, innovation and
 
 I'm a Father 👨‍👧‍👦, Developper, IT Trainer and Mechatronics Engineer.
 
-Skilled in web technologies, HTML, CSS, SCSS and Javascript, also C and Python Languages with solid foundations in Blender, Illustrator, Adobe XD, Final cut pro and more. 
+I passionned by **back-end development** and everything related to computer sciences.
+
+My main programming language is **Python** 🐍, I know to use in the professionnal context with differents tools like Pycharm, Panda, Flask, SQLAlchemy, Pytest, Ctype, CPython, JWT, BCrypt, PostgreSQL, Postman, and more...
+
+I also skilled in web technologies, HTML, CSS, SCSS and Javascript. And I have goods foundations in C language. . 
 
 Gifted, open-minded 🧠, I am passionate about Sciences 👨🏻‍🔬, blockchain ⛓️, GIS 🛰️, innovation, foresight, IT, digital arts, design, mechatronics, entrepreneurship, drones, nature, biomimicry, 🐶, 🌊, 🎣, ⛵, 🏄‍, 🏖️ and learning all time about everything 📖. 
 
