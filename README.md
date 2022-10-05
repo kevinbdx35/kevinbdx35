@@ -1,7 +1,7 @@
 # Hi everyone, I'm Kévin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 From 2017, I’m focused my carreer on the digital world 🖥️, innovation and emerging technologies. 
 
-I'm a Father 👨‍👧‍👦, Developper, IT Teacher, Mechatronics Engineer, Musician 🥁 🎶  and Martial artist 🥋.
+I'm a Father 👨‍👧‍👦, Developper, IT Trainer and Mechatronics Engineer.
 
 Skilled in web technologies, HTML, CSS, SCSS and Javascript, also C and Python Languages with solid foundations in Blender, Illustrator, Adobe XD, Final cut pro and more. 
 
