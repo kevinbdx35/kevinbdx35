@@ -18,6 +18,7 @@ I like emulsions of ideas and human contact.
 - 👀 I’m interested in new challenges, projects, jobs,...
 - 🌱 I’m currently learning everything 😊
 - 💞️ I'm looking to collaborate an ethical purpose project
+- I can adapt myself easily and work both in office, partial or full remotely
 
 <br>
 <br>
