@@ -37,7 +37,7 @@ I like emulsions of ideas and human contact.
 <br>
 
 ## My next steps :
-[![My Skills](https://skillicons.dev/icons?i=docker,ts,rust,vim,neovim,go&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,rust,vim,neovim,go&perline=10)](https://skillicons.dev)
 
 <br>
 <br>
