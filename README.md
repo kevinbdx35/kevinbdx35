@@ -42,7 +42,7 @@ I like emulsions of ideas and human contact.
 <br>
 <br>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbdx35&hide=javascript,css,scss,html&theme=tokyonight)
 
 [website]:https://kevinbdx35.github.io/kevinb/
 [youtube]: https://youtube.com
