@@ -25,8 +25,8 @@
 
   ## 🌟 Recent Projects
 
-  - **[SLAMM MMA Club](https://mma-s
-  aint-lunaire.fr)** - Modern React
+  - **[SLAMM MMA Club](https://mma-saint-lunaire.fr)**
+  - - Modern React
   website for a martial arts club
     - Material Design 3, responsive
   design, accessibility-focused
