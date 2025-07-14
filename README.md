@@ -1,5 +1,7 @@
 # Hi everyone, I'm Kévin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W61I0YBJ)
+
   ## 🚀 About Me
 
   - 👀 I'm interested in **new 
